@@ -1,0 +1,18 @@
+table {
+    font-family: Arial,  sans-serif;
+    text-align: center;
+    border-collapse : collapse;
+    border : 1px solid #000000;
+    width : 800px;
+    height : 50px;
+}
+td , th {
+    text-align: center;
+    border-collapse : collapse;
+    border : 1px solid #000000;
+    width : 800px;
+    height : 50px;
+}
+th {
+    background-color: #ff6600;
+}
